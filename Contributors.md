@@ -871,6 +871,7 @@ Hej! I'm Gustav from Stockholm, Sweden.
 - [AminNeji](https://github.com/AminNeji) **adding my name**
 - [AjayChakka] First Contribution
 - [hamtsu](https://github.com/hamtsu) **Adding my first contribution**
+- [Ishfaq Iqram] **My first contribution to an open source**
 - [Aysha Haneena] **tadaa my first ever contributions**
 - [Piggery Axe](https://github.com/PiggeryAxe) **Thank you to those who have worked on this project to teach others to do the same.**
 - [Mouli] **Hey this is Mouli, here making my first contribution**
